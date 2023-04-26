@@ -1,8 +1,7 @@
 
 /* Your CSS Code here. */
 .holder{
-	display:grid;
-	grid-template-columns:repeat(3,15%);
+	display:flex;
 }
 .first{
 	width:100px;
